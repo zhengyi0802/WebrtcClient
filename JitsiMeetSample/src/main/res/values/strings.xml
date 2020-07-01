@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jitsi SDK test</string>
+    <string name="default_utl">https://webrtc1.mundi-tv.tk/</string>
+</resources>
